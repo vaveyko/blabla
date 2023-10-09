@@ -1,2 +1,2 @@
 # blabla
-## Laba1_1(3\Delphi)
+## Laba1_1(3/Delphi)
